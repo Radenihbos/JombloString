@@ -1,29 +1,41 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/StringGreyBot)
+## ❤️ Pyrogram And Telethon String Generator ❤️
 
-> A star ⭐ from you means a lot to us!
+Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram Developed  ❤️
 
-<p align="center"><a href="https://t.me/allfucek"><img src="https://telegra.ph/file/d6b61422b8a81da6e1d65.jpg" width="2000"></a></p>
+<p align="center"><a href="https://t.me/Radenihboss"><img src="https://i.postimg.cc/vTpCvvtw/IMG-20220824-004302-099.jpg" width="300"></a></p>
+<p align="center">
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&colosr=red" /></a>
+    <a href="https://github.com/Radenihbos/StringJomblo/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/Radenihbos/StringJomblo/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/Radenihbos/StringJomblo"> <img src="https://img.shields.io/github/repo-size/Radenihbos/StringJomblo?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Radenihbos/StringJomblo/commits/main"> <img src="https://img.shields.io/github/last-commit/Radenihbos/StringJomblo?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Radenihbos/StringJomblo/issues"> <img src="https://img.shields.io/github/issues/?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Radenihbos/StringJomblo/network/members"> <img src="https://img.shields.io/github/forks/Radenihbos/StringJomblo?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Radenihbos/StringJomblo/network/members"> <img 
 
-Telegram bot to generate pyrogram and telethon string session.
+<h3>Requirements 😊 </h3>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- Python 3.7 Or Higher
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [Pyrogram](https://docs.pyrogram.org//)
+- Heroku3
 
-## Usage
+## Heroku Deployment ❤️
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Radenihbos/StringJomblo)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/grey423/GreyString.git)
 
-1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
-2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
-3. After deploying is complete, tap on "Manage App"
-4. Check the logs to see if your bot is ready!
+## Features ❤️”®
+
+- Generate Pyrogram String Seesion For Telegram Advance Bot
+- Generate Telethone String Seesion For Telegram Advance Bot
 
 ### Local Deploying
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/grey423/GreyString
+   git clone https://github.com/Radenihbos/JombloString
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -31,7 +43,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 4. Enter the directory
    ```markdown
-   cd StringSessionBot
+   cd JombloString
    ```
 5. Run the file
    ```markdown
@@ -46,34 +58,5 @@ Telegram bot to generate pyrogram and telethon string session.
 - `API_HASH` - Get this from [my.telegram.org](https://my.telegram.org/auth)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
 - `DATABASE_URL` - Will be automatically added by Heroku.
-- `MUST_JOIN` - Username/ID of your telegram channel/group.
-
-## Functions
-
-> More features soon if suggested by you :)
-
-## To-Do
-
-> That's on you mainly...
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-## Credits
-
-- [Dan Tès](https://github.com/delivrance) for his [Pyrogram](https://docs.pyrogram.org) Library
-- [Lonami](https://github.com/Lonami) for his [Telethon](https://docs.telethon.dev) Library 
-- [aylak](https://t.me/ayIak) for **Telethon** idea of [v1.0.0](https://github.com/StarkBotsIndustries/StringSessionBot/commit/48e06bb6d9ed156797ef4bc0dab88820fef948f3)
-
-## Support
-
-Channel :- [Support Channel](https://t.me/greyupdate)
-
-Group Chat :- [Group support](https://t.me/greynihsupport)
-
-## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Tonic990)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/Tonic990)
+- `MUST_JOIN` - Username/ID of your telegram channel/group
+- [Credit Stark Bot](https://github.com/StarkBotsIndustries)
